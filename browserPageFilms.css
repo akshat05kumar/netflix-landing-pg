@@ -39,7 +39,7 @@ a.header{
 }
 
 header{
-  background: url("../React-Netflix-Clone/public/images/misc/joker1.webp" );
+  background: url("./public/images/misc/joker1.webp" );
   background-repeat: no-repeat;
   background-size:cover;
   padding-left:3%;
@@ -158,7 +158,7 @@ h5{
 .D{ 
   
 
-  background:url('./React-Netflix-Clone/public/images/icons/close.webp');
+  background:url('./public/images/icons/close.webp');
   background-size: cover;
   height: 20px;
   width: 20px;
@@ -171,7 +171,7 @@ h5{
 
 .dramaExpanded1{
   display: none;
- background: url('./React-Netflix-Clone/public/images/films/drama/fight-club/large.webp');
+ background: url('./public/images/films/drama/fight-club/large.webp');
  background-size: cover;
  background-repeat: no-repeat;
  width: 95%;
@@ -179,7 +179,7 @@ h5{
 }
 .dramaExpanded2{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/drama/kings-speech/large.webp');
+  background: url('./public/images/films/drama/kings-speech/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -187,7 +187,7 @@ h5{
  }
  .dramaExpanded3{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/drama/the-prestige/large.webp');
+  background: url('./public/images/films/drama/the-prestige/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -195,7 +195,7 @@ h5{
  }
  .dramaExpanded4{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/drama/the-revenant/large.webp');
+  background: url('./public/images/films/drama/the-revenant/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -203,7 +203,7 @@ h5{
  }
  .dramaExpanded5{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/drama/the-social-network/large.webp');
+  background: url('./public/images/films/drama/the-social-network/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -214,7 +214,7 @@ h5{
 
  .thrillerExpanded1{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/thriller/nightcrawler/large.webp');
+  background: url('./public/images/films/thriller/nightcrawler/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -222,7 +222,7 @@ h5{
  }
  .thrillerExpanded2{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/thriller/a-quiet-place/large.webp');
+  background: url('./public/images/films/thriller/a-quiet-place/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -230,7 +230,7 @@ h5{
  }
  .thrillerExpanded3{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/thriller/black-swan/large.webp');
+  background: url('./public/images/films/thriller/black-swan/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -238,7 +238,7 @@ h5{
  }
  .thrillerExpanded4{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/thriller/joker/large.webp');
+  background: url('./public/images/films/thriller/joker/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -246,7 +246,7 @@ h5{
  }
  .thrillerExpanded5{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/thriller/the-silence-of-the-lambs/large.webp');
+  background: url('./public/images/films/thriller/the-silence-of-the-lambs/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -257,7 +257,7 @@ h5{
 
  .childrenExpanded1{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/children/hotel-transylvania/large.webp');
+  background: url('./public/images/films/children/hotel-transylvania/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -265,7 +265,7 @@ h5{
  }
  .childrenExpanded2{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/children/despicable-me/large.webp');
+  background: url('./public/images/films/children/despicable-me/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -273,7 +273,7 @@ h5{
  }
  .childrenExpanded3{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/children/frozen/large.webp');
+  background: url('./public/images/films/children/frozen/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -281,7 +281,7 @@ h5{
  }
  .childrenExpanded4{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/children/spirited-away/large.webp');
+  background: url('./public/images/films/children/spirited-away/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -289,7 +289,7 @@ h5{
  }
  .childrenExpanded5{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/children/up/large.webp');
+  background: url('./public/images/films/children/up/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -300,7 +300,7 @@ h5{
 
  .suspenseExpanded1{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/suspense/shutter-island/large.webp');
+  background: url('./public/images/films/suspense/shutter-island/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -308,7 +308,7 @@ h5{
  }
  .suspenseExpanded2{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/suspense/gone-girl/large.webp');
+  background: url('./public/images/films/suspense/gone-girl/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -316,7 +316,7 @@ h5{
  }
  .suspenseExpanded3{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/suspense/prisoners/large.webp');
+  background: url('./public/images/films/suspense/prisoners/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -324,7 +324,7 @@ h5{
  }
  .suspenseExpanded4{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/suspense/seven/large.webp');
+  background: url('./public/images/films/suspense/seven/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -332,7 +332,7 @@ h5{
  }
  .suspenseExpanded5{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/suspense/zodiac/large.webp');
+  background: url('./public/images/films/suspense/zodiac/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -343,7 +343,7 @@ h5{
 
  .romanceExpanded1{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/romance/la-la-land/large.webp');
+  background: url('./public/images/films/romance/la-la-land/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -351,7 +351,7 @@ h5{
  }
  .romanceExpanded2{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/romance/a-star-is-born/large.webp');
+  background: url('./public/images/films/romance/a-star-is-born/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -359,7 +359,7 @@ h5{
  }
  .romanceExpanded3{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/romance/blue-valentine/large.webp');
+  background: url('./public/images/films/romance/blue-valentine/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -367,7 +367,7 @@ h5{
  }
  .romanceExpanded4{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/romance/the-notebook/large.webp');
+  background: url('./public/images/films/romance/the-notebook/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
@@ -375,7 +375,7 @@ h5{
  }
  .romanceExpanded5{
   display: none;
-  background: url('./React-Netflix-Clone/public/images/films/romance/titanic/large.webp');
+  background: url('./public/images/films/romance/titanic/large.webp');
   background-size: cover;
   background-repeat: no-repeat;
   width: 95%;
