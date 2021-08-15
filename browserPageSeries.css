@@ -1,0 +1,149 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: white;
+}
+img {
+  width: 14rem;
+  padding-left: 3%;
+}
+p {
+  color: white;
+}
+body {
+  background: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.top {
+  padding-top: 3%;
+  display: flex;
+}
+
+.top-top {
+  display: flex;
+}
+
+a.header {
+  color: white;
+  padding-top: 5%;
+  padding-left: 5rem;
+}
+
+header {
+  background: url("./React-Netflix-Clone/public/images/misc/peaky-blinders-7h-2560x1440.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-left: 3%;
+  height: 95vh;
+  width: 99%;
+  padding-right: 0;
+  z-index: -1;
+}
+h1 {
+  font-size: 3rem;
+  padding-top: 15%;
+}
+
+div p {
+  padding-top: 1%;
+  font-size: 1.2rem;
+  width: 35rem;
+  z-index: 100;
+  text-shadow: 2px 2px 8px black;
+  padding-bottom: 2rem;
+}
+
+.btn {
+  background: white;
+  color: black;
+  padding: 0.5rem 1.3rem;
+  font-weight: 500px;
+  border-radius: 4px;
+}
+
+a img {
+  width: 8rem;
+  margin-left: -2%;
+  padding-top: 2rem;
+}
+
+main {
+  margin-left: 3%;
+}
+
+h3 {
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+
+.Comedies {
+  display: flex;
+}
+.Children {
+  display: flex;
+}
+.Crime {
+  display: flex;
+}
+.Documentaries {
+  display: flex;
+}
+.Feel-Good {
+  display: flex;
+}
+
+main img:hover {
+  width: 16rem;
+  transition: 0.3s;
+}
+
+footer {
+  padding-top: 4rem;
+  height: fit-content;
+  background: black;
+  padding-bottom: 4rem;
+}
+
+p.medium {
+  color: rgb(134, 134, 134);
+  padding-left: 13rem;
+  font-size: 0.6rem;
+}
+
+a.bottomAnchor {
+  color: rgb(134, 134, 134);
+  font-size: 0.6rem;
+}
+a.footAnchor {
+  color: rgb(134, 134, 134);
+}
+.foot {
+  display: flex;
+  margin-left: 13rem;
+  padding-top: 1rem;
+}
+.foot2 {
+  padding-left: 8rem;
+}
+
+.foot3 {
+  padding-left: 8rem;
+}
+
+.foot4 {
+  padding-left: 8rem;
+}
+li {
+  padding-top: 1rem;
+}

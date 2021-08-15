@@ -1,0 +1,287 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+body{
+  background: rgb(41, 40, 40);
+}
+
+h1,h2,h3,h4{
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+button{
+  border-style: none;
+  border-radius: 4px;
+  color: white;
+background: red;
+}
+
+#Email{
+  color:grey;
+  background: white;
+  border-style: none;
+  height: 2rem;
+  width: 20rem;
+  margin-top: 1rem;
+}
+
+img.logo{
+  width: 8rem;
+}
+
+.showcase-top{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.btn{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+p{
+  color: white;
+}
+p.small{
+  
+  padding-top: 1rem;
+  font-size: 0.8rem;
+}
+p.medium{
+  font-size: 1rem;
+}
+p.big{
+  padding-top: 1rem;
+  font-size: 1.4rem;
+}
+
+.showcase{
+  background-color: rgb(22, 21, 21);
+  background-blend-mode:color-dodge;
+  background-image: url('https://i.ibb.co/vXqDmnh/background.jpg');
+  width: 100%;
+  height: 93vh;
+  
+}
+
+h1{
+  
+  font-size: 3rem;
+ 
+}
+.showcase-center{
+width: 60rem;
+padding-left: 20rem;  
+padding-top:10rem ;
+text-align:center ;
+}
+
+.btn.btn-btn{
+  margin-top: 0rem;
+ font-size: 1rem;
+  height: 2rem;
+  border-radius:1px ;
+}
+
+.mainCenter{
+  margin-top: 0.5rem;
+  height: 70vh;
+  width: 100%;
+  background: black;
+}
+.mainCenter.showcaseCenter1{
+
+  display: flex;
+  justify-content: space-around;
+}
+.main1{
+  padding-top: 5rem;
+  padding-left: 8rem;
+  width: 35rem;
+}
+img.I1{
+  margin: 3rem;
+  height: 20rem;
+ 
+}
+
+.mainCenter.showcaseCenter2{
+
+  display: flex;
+  justify-content: space-around;
+}
+.main2{
+  padding-top: 5rem;
+  padding-left: 8rem;
+  width: 45rem;
+}
+img.I2{
+  margin: 3rem;
+  height: 20rem;
+ 
+}
+
+.mainCenter.showcaseCenter3{
+
+  display: flex;
+  justify-content: space-around;
+}
+.main3{
+  padding-top: 5rem;
+  padding-left: 8rem;
+  width: 39rem;
+}
+img.I3{
+  margin: 3rem;
+  height: 20rem;
+ 
+}
+
+h2{
+  font-size: 3rem;
+}
+
+.mainCenter.showcaseBottom{
+  height: fit-content;
+  padding-bottom: 1rem;
+
+}
+.showcaseBottom{
+ padding-top: 1rem;
+  text-align: center;
+}
+
+.Plus{
+  font-size: 2em;
+  padding-right: 1rem;
+  color: white;
+  margin-top: -0.5rem;
+}
+
+ul.showcase-Bottom{
+  padding-top: 1rem;
+  margin-left: 22%;
+}
+
+.oneToggle {
+  background: rgb(53, 53, 53);
+  padding-top: 1em;
+  height: 3rem;
+  width: 35rem;
+  display: flex;
+  padding-left: 1rem;
+  justify-content: space-between;
+}
+.twoToggle{
+  margin-top: 0.5rem;
+  height: 3rem;
+  background: rgb(53, 53, 53);
+  padding-top: 1em;
+  width: 35rem;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+  
+}
+.threeToggle{
+  height: 3rem;
+  margin-top: 0.5rem;
+  padding-top: 1em;
+  background: rgb(53, 53, 53);
+  width: 35rem;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+}
+.fourToggle{
+  height: 3rem;
+  margin-top: 0.5rem;
+  padding-top: 1em;
+  background: rgb(53, 53, 53);
+  width: 35rem;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+}
+.fiveToggle{height: 3rem;
+  margin-top: 0.5rem;
+  padding-top: 1em;
+  background: rgb(53, 53, 53);
+  width: 35rem;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+}
+
+
+div.content {
+  display: none;
+  cursor:default;
+  margin-left: 8.1%;
+  margin-top: 2px;
+  position: relative;
+  text-align:justify;
+  width: 35rem;
+  background: rgb(53, 53, 53);
+}
+
+footer{
+  padding-top: 3rem;
+  margin-top: 0.5rem;
+  background: black;
+}
+.foot{
+  margin-left: 6rem;
+  padding-top: 2rem;
+  height: 15rem;
+  display:flex;
+}
+
+a.bottomAnchor{
+
+  color: gray;
+}
+
+
+
+li{ list-style: none;
+  margin-left: 5rem;
+  padding-top: 0.5rem;
+}
+
+p.medium{
+  margin-left: 11rem;
+  color: gray;
+}
+
+.footAnchor{
+  color: gray;
+}
+
+.foot2{
+  padding-right: 0;
+  margin-left:0rem ;
+}
+
+.foot3{
+  padding-right: 0;
+  margin-left:0rem ;
+}
+
+.foot4{
+  
+  padding-right: 0;
+  padding-left: 0; 
+
+}
